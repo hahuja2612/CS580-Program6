@@ -26,16 +26,15 @@
 
 **_TOTAL: 30 points_**
 
-* **Part A** (1 points): Initialize and Insert
+* **Part A** (11 points): Initialize, Insert, and Read
     * Test 1 - Initialize the BST (1 point)
-* **Part B** (10 points): Traversal
     * Test 2 - Insert into the BST (1 point)
     * Test 3 - Insert Duplicates(1 point)
     * Test 4 - Sorted data (3 points)
     * Test 5 - Search data (2 points)
     * Test 6 - Search for Missing data (2 points)
     * Test 7 - Clone and Compare trees (3 points)
-* **Part C** (30 points): Deletion
+* **Part B** (30 points): Deletion
     * Test 8 - Remove a value not found (1 points)
     * Test 9 - Remove Leaf (2 points)
     * Test 10 - Remove 1 child node  (2 points)
