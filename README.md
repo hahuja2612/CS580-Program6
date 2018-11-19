@@ -86,7 +86,7 @@ Below is the expected interface for your structs:
    * `data (Data)`
    * `left (Node *)`
    * `right (Node *)`
-
+   * `parent (Node *)`
 * Tree struct
    * `root (Node *)`
    * `Data * (*insert)(Tree *, Data);`
