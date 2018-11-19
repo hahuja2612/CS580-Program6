@@ -98,7 +98,7 @@ Below is the expected interface for your structs:
    * `void (*delete)(Tree * bst);`
    * `void (*removeData)(Tree * bst, Data value);`
 
-Your constructors should ahve the following interfaces:
+Your constructors should have the following interfaces:
 * `Node * newNode(Data d, Node * parent);`
 * `Tree * newTree();`
 
